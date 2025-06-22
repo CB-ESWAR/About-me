@@ -5,7 +5,7 @@
 - 🔭 I’m currently solving daily challenges on LeetCode  
 - 🌱 I’m learning DSA | C++ STL | System Design  
 - 👯 I’m looking to collaborate on open-source and competitive programming  
-- 📫 How to reach me: [cbeswar@gmail.com](mailto:cbeswar@gmail.com)  
+- 📫 How to reach me: [cbeswar20072006@gmail.com](mailto:cbeswar20072006@gmail.com)  
 - ⚡ Fun fact: I automate boring tasks for fun 😎  
 
 ---
