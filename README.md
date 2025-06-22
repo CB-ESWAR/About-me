@@ -27,5 +27,5 @@
 ---
 
 ### 📈 GitHub Stats:
-![Eswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbeswar&show_icons=true&theme=radical)
+![Eswar's GitHub stats](https://github.com/CB-ESWAR?tab=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbeswar&layout=compact&theme=radical)
